@@ -1,4 +1,4 @@
-# splunk-queries(https://www.splunk.com/)
+# [splunk-queries](https://www.splunk.com/)
 
 ![](https://img.shields.io/github/last-commit/timb-machine/spunk-queries?style=for-the-badge)
 
