@@ -21,3 +21,31 @@ The following is my scribbled notes on some fun queries that yield results when 
 * Get a summary of what a specific index looks like:
 
 ```index=<name of index> | fieldsummary```
+
+* Cross-search LDAP
+
+More info: https://docs.splunk.com/Documentation/SA-LdapSearch/3.2.0/User/Theldapsearchcommand
+
+* Read from files:
+
+More info: https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.2/search-commands/inputcsv
+
+* Rad from JSON:
+
+More info: https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.2/search-commands/fromjson
+
+* Output to file::
+
+More info: https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.2/search-commands/outputcsv
+
+* Output to JSON:
+
+More info: https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.2/search-commands/tojson
+
+* Call external Python:
+
+More info: https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.2/search-commands/script
+
+* Call external SQL:
+
+More info: https://help.splunk.com/en/splunk-enterprise/spl-search-reference/9.2/search-commands/dbxquery
